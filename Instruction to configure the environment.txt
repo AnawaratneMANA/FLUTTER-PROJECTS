@@ -1,0 +1,7 @@
+Download the Flutter SDK - ~400MB Place it in the C drive (OPTIONAL)
+Set the Path in environment vairables
+Download the Android Studio 
+Install the command line tools to avoid the warning message in flutter doctor.
+Set a up a Emulator.
+Install IntelliJ and Install Flutter Plugin and Dart Plugin.
+When creating a project select the SDK path if not automatically selected by IntelliJ.
