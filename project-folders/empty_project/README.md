@@ -1,6 +1,6 @@
-# lab2
+# Empty Flutter Project
 
-LAB 2 Exercise CTSE
+Template Empty Flutter Project.
 
 ## Getting Started
 
